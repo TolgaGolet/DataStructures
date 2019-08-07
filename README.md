@@ -1,2 +1,2 @@
 # DataStructures
-My data structures homework codes as a computer engineer student.
+As a computer engineer student, my data structures homework codes.
